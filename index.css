@@ -1,0 +1,44 @@
+#header1 {
+    color:aqua;
+    background-color: azure;
+
+}
+#body-docs{
+    background-image: url(3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#div1{
+    background-color: rgb(155, 155, 69);
+    color: antiquewhite;
+    border: 30px solid navy;
+    padding: 20px pink;
+    margin: 15px, 15px, 15px, 10px;
+}
+#div2{
+    background-color: rgb(18, 85, 85);
+    width: 400px;
+    height: 100px;
+    overflow: scroll;
+}
+.div4{
+    padding: 5%;
+    margin: 10%;
+    border: 25px solid rebeccapurple;
+    box-shadow: 10px 15px 10px 5px red;
+}
+.center{
+    border: 2px solo    #12adc9;
+    width: 500px;
+    text-align: justify;
+    margin-left: auto;
+    margin-right: auto;
+}
+.title{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 25pt;
+    text-align: center;
+    text-decoration: underline;
+    color:blueviolet;
+    letter-spacing: 5px;
+}
